@@ -8,45 +8,33 @@ const Certifications = () => {
 
     const certifications = [
         {
-            title: "Google Data Analytics Professional Certificate",
-            issuer: "Google",
-            date: "2023",
-            credentialId: "G-123456789",
+            title: "ADVANCED DIPLOMA IN COMPUTER APPLICATIONS",
+            issuer: "VFX ERA",
+            date: "2026",
             link: "#",
-            logo: "G", // You could replace this with an actual image URL if available
-            color: "from-blue-500 to-yellow-500",
-            skills: ["Data Cleaning", "R Programming", "Tableau", "Data Visualization"]
+            logo: "A",
+            color: "from-green-500 to-emerald-700",
+            skills: ["MS Office", "Advanced Excel", "Tally Prime", "Photoshop"]
+        }, {
+            title: "MERN STACK DEVELOPMENT",
+            issuer: "VFX ERA",
+            date: "2026",
+            link: "#",
+            logo: "M",
+            color: "from-cyan-500 to-blue-600",
+            skills: ["MongoDB", "Express.js", "React.js", "Node.js"]
         },
         {
-            title: "TCS iON Career Edge - Young Professional",
-            issuer: "TCS",
-            date: "2022",
-            credentialId: "TCS-987654321",
+            title: "DATA ANALYTICS WITH GENERATIVE AI",
+            issuer: "VFX ERA",
+            date: "2026",
             link: "#",
             logo: "T",
             color: "from-purple-500 to-pink-500",
-            skills: ["Communication", "Soft Skills", "Business Etiquette"]
-        },
-        {
-            title: "Python for Data Science and AI",
-            issuer: "IBM",
-            date: "2022",
-            credentialId: "IBM-456123789",
-            link: "#",
-            logo: "I",
-            color: "from-blue-600 to-cyan-400",
-            skills: ["Python", "Pandas", "NumPy", "AI Basics"]
-        },
-        {
-            title: "SQL for Data Science",
-            issuer: "University of California, Davis",
-            date: "2023",
-            credentialId: "SQL-789456123",
-            link: "#",
-            logo: "S",
-            color: "from-emerald-500 to-green-500",
-            skills: ["SQL", "Relational Databases", "Data Analysis"]
+            skills: ["Power BI", "Python", "SQL", "Generative AI"]
         }
+
+
     ];
 
     const containerVariants = {
