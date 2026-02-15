@@ -47,7 +47,7 @@ const About = () => {
                                 I thrive on turning "what happened" into "what's next".
                             </p>
 
-                            <div className="mt-8 pt-8 border-t border-white/5 grid grid-cols-2 gap-4">
+                            {/* <div className="mt-8 pt-8 border-t border-white/5 grid grid-cols-2 gap-4">
                                 <div>
                                     <h4 className="text-3xl font-bold text-white mb-1">4+</h4>
                                     <p className="text-xs text-emerald-400 uppercase tracking-wider">Years Experience</p>
@@ -56,7 +56,8 @@ const About = () => {
                                     <h4 className="text-3xl font-bold text-white mb-1">50+</h4>
                                     <p className="text-xs text-emerald-400 uppercase tracking-wider">Projects Delivered</p>
                                 </div>
-                            </div>
+                            </div> */}
+                            
                         </div>
                     </motion.div>
 
