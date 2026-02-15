@@ -17,7 +17,7 @@ const Projects = () => {
             tags: ["PowerBI", "SQL", "DAX"],
             image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=2340&ixlib=rb-4.0.3",
             demo: "https://app.powerbi.com/",
-            github: "https://github.com/sachinr"
+            github: "https://github.com/"
         },
         {
             title: "Customer Churn Prediction",
@@ -25,7 +25,7 @@ const Projects = () => {
             tags: ["Python", "Scikit", "Pandas"],
             image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=2340&ixlib=rb-4.0.3",
             demo: "#",
-            github: "https://github.com/sachinr"
+            github: "https://github.com/"
         },
         {
             title: "Supply Chain Optimization",
@@ -33,7 +33,7 @@ const Projects = () => {
             tags: ["EDA", "Python", "Seaborn"],
             image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&q=80&w=2426&ixlib=rb-4.0.3",
             demo: "#",
-            github: "https://github.com/sachinr"
+            github: "https://github.com/"
         },
         {
             title: "Twitter Sentiment Analysis",
@@ -41,7 +41,7 @@ const Projects = () => {
             tags: ["NLP", "Python", "API"],
             image: "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&q=80&w=2340&ixlib=rb-4.0.3",
             demo: "#",
-            github: "https://github.com/sachinr"
+            github: "https://github.com/"
         }
     ];
 
