@@ -9,8 +9,8 @@ const Certifications = () => {
     const certifications = [
         {
             title: "ADVANCED DIPLOMA IN COMPUTER APPLICATIONS",
-            issuer: "VFX ERA",
-            date: "2026",
+            issuer: "JAIN COLLAGE ",
+            date: "2024",
             link: "#",
             logo: "A",
             color: "from-green-500 to-emerald-700",
