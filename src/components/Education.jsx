@@ -8,20 +8,20 @@ const Education = () => {
 
     const education = [
         {
-            degree: "Bachelor of Technology in Computer Science",
-            institution: "Technological Institute of Technology",
-            location: "Bangalore, India",
-            year: "2019 - 2023",
-            grade: "CGPA: 8.5/10",
+            degree: "Bachelor of Computer Applications (BCA)",
+            institution: "J.S. University",
+            location: "Shikohabad, Uttar Pradesh",
+            year: "2022 - 2025",
+            grade: "CGPA: 7.8/10",
             description: "Specialized in Data Science and Machine Learning. Capstone project focused on predictive analytics for healthcare systems.",
             courses: ["Data Structures & Algorithms", "Database Management Systems", "Probability & Statistics", "Operating Systems", "Artificial Intelligence"]
         },
         {
             degree: "Higher Secondary Education (Science)",
-            institution: "National Public School",
-            location: "Bangalore, India",
-            year: "2017 - 2019",
-            grade: "Percentage: 92%",
+            institution: "St. Dominic Savio English Medium School",
+            location: "Lalitpur, Uttar Pradesh",
+            year: "2020 - 2021",
+            grade: "Percentage: 75%",
             description: "Core subjects included Physics, Chemistry, Mathematics, and Computer Science. Active member of the coding club.",
             courses: ["Mathematics", "Physics", "Computer Science"]
         }
